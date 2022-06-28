@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Author - Tolulope Fakunle
+# Author - Rebecca Ogunyemi
 
 def uppercase(str):
     """Print a string in uppercase."""
