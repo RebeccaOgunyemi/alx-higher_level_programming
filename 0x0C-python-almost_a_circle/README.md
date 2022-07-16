@@ -1,4 +1,7 @@
-# Python - Almost a circle
-
-
-In this project, I expressed my skills in Python object-oriented programming by coding three connected classes to represent rectangles and squares. I wrote my own test suite using the `unittest` module to test all functionality for each class.
+PYTHON Almost a Circle
+This folder contains files written in python rogrammng language.
+It aims to learn about Unit testing and implementing it in a large project.
+How to serialize and deserialize a class
+How to write and read a JSON file
+*args, **kwargs and how to use it
+HOw to handle names arguments in a function
